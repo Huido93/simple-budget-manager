@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/huido93/static/css/main.ca67ef22.css",
-    "main.js": "/huido93/static/js/main.4b5ba112.js",
+    "main.js": "/huido93/static/js/main.c7914982.js",
     "static/js/453.ce4e17c3.chunk.js": "/huido93/static/js/453.ce4e17c3.chunk.js",
     "index.html": "/huido93/index.html",
     "main.ca67ef22.css.map": "/huido93/static/css/main.ca67ef22.css.map",
-    "main.4b5ba112.js.map": "/huido93/static/js/main.4b5ba112.js.map",
+    "main.c7914982.js.map": "/huido93/static/js/main.c7914982.js.map",
     "453.ce4e17c3.chunk.js.map": "/huido93/static/js/453.ce4e17c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.4b5ba112.js"
+    "static/js/main.c7914982.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simple-budget-manager/static/css/main.ca67ef22.css",
-    "main.js": "/simple-budget-manager/static/js/main.84f387b8.js",
+    "main.js": "/simple-budget-manager/static/js/main.dabd6655.js",
     "static/js/453.ce4e17c3.chunk.js": "/simple-budget-manager/static/js/453.ce4e17c3.chunk.js",
     "index.html": "/simple-budget-manager/index.html",
     "main.ca67ef22.css.map": "/simple-budget-manager/static/css/main.ca67ef22.css.map",
-    "main.84f387b8.js.map": "/simple-budget-manager/static/js/main.84f387b8.js.map",
+    "main.dabd6655.js.map": "/simple-budget-manager/static/js/main.dabd6655.js.map",
     "453.ce4e17c3.chunk.js.map": "/simple-budget-manager/static/js/453.ce4e17c3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.84f387b8.js"
+    "static/js/main.dabd6655.js"
   ]
 }
